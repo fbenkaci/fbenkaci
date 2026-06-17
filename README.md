@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey ! 👋
 
-<!--
-**fbenkaci/fbenkaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiant à 42 Paris et je m’oriente vers les métiers du Cloud Computing.
 
-Here are some ideas to get you started:
+Curieux de nature, j’aime explorer de nouvelles technologies et comprendre leur fonctionnement en profondeur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J’accorde une grande importance à l’apprentissage continu et au développement de nouvelles compétences techniques.
+
+Je m’intéresse particulièrement au Cloud, au DevOps, à l’automatisation ainsi qu’à l’Intelligence Artificielle.
+
+À travers mes projets, je cherche à relever de nouveaux défis et à enrichir constamment mes connaissances.
+
+## À propos de moi :
+
+- ⚽ Football
+- 💪 Musculation
+- 📚 Lecture
